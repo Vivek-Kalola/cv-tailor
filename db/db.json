@@ -1,0 +1,90 @@
+{
+"1": {
+"BaseModel": null,
+"id": 1,
+"name": "Vivek Kalola",
+"title": {
+"role": "",
+"tags": null
+},
+"socials": {
+"email": "vivekkalola009@gmail.com",
+"phone": "+918154096952",
+"linkedin": "",
+"github": ""
+},
+"expertise": [
+{
+"id": "1",
+"title": "",
+"skills": []
+},
+{
+"id": "1774548015184",
+"title": "",
+"skills": []
+},
+{
+"id": "1774548016045",
+"title": "",
+"skills": []
+},
+{
+"id": "1774548016932",
+"title": "",
+"skills": []
+}
+],
+"experience": [
+{
+"id": "1",
+"company": "",
+"jobTitle": "",
+"location": "",
+"workType": "Onsite",
+"startDate": "",
+"endDate": "",
+"isCurrent": false,
+"bullets": [
+""
+]
+},
+{
+"id": "1774548031917",
+"company": "",
+"jobTitle": "",
+"location": "",
+"workType": "Onsite",
+"startDate": "",
+"endDate": "",
+"isCurrent": false,
+"bullets": [
+""
+]
+},
+{
+"id": "1774548033065",
+"company": "",
+"jobTitle": "",
+"location": "",
+"workType": "Onsite",
+"startDate": "",
+"endDate": "",
+"isCurrent": false,
+"bullets": [
+""
+]
+}
+],
+"education": [
+{
+"id": "1",
+"uniName": "",
+"degree": "",
+"location": "",
+"startYear": "",
+"endYear": ""
+}
+]
+}
+}

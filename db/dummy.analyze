@@ -1,0 +1,518 @@
+{
+  "candidateName": "Vivek Kalola",
+  "matchScore": 62.5,
+  "skills": [
+    {
+      "skill": "Design",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "Develop scalable microservices",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "Distributed microservices",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "Java",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "Feature delivery",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 90
+    },
+    {
+      "skill": "Technical design",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "Production deployment",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "Collaboration",
+      "category": "Soft Skill",
+      "impact": "Medium",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 90
+    },
+    {
+      "skill": "Clean code",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Testable code",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Maintainable code",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Code reviews",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Design discussions",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "CI/CD pipelines",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "Monitoring",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "Incident response processes",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Performance improvement",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 90
+    },
+    {
+      "skill": "Reliability",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Observability",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "BSc in Computer Science",
+      "category": "Qualification",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 95
+    },
+    {
+      "skill": "BSc in Software Engineering",
+      "category": "Qualification",
+      "impact": "High",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Backend development",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "Spring Boot",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "JVM ecosystem",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Microservices architectures",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "RESTful APIs",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Relational databases",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "PostgreSQL",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Joins",
+      "category": "Technical",
+      "impact": "Low",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Indexes",
+      "category": "Technical",
+      "impact": "Low",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Transactions",
+      "category": "Technical",
+      "impact": "Low",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Optimizations",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Containerized environments",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 90
+    },
+    {
+      "skill": "Docker",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "Kubernetes",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "Jenkins",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "CircleCI",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "ArgoCD",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "Cloud-based infrastructure",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "AWS",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "Git",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "GitHub",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "GitLab",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Azure DevOps",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Bitbucket",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Problem-solving skills",
+      "category": "Soft Skill",
+      "impact": "Medium",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "System-level thinking",
+      "category": "Soft Skill",
+      "impact": "Medium",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Technical design documents",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Architectural planning",
+      "category": "Technical",
+      "impact": "High",
+      "required": true,
+      "matched": true,
+      "confidenceScore": 90
+    },
+    {
+      "skill": "Written communication skills",
+      "category": "Soft Skill",
+      "impact": "Low",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Verbal communication skills",
+      "category": "Soft Skill",
+      "impact": "Low",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "English",
+      "category": "Language",
+      "impact": "Low",
+      "required": true,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Go",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": false,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "System testing",
+      "category": "Technical",
+      "impact": "Low",
+      "required": false,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Integration testing",
+      "category": "Technical",
+      "impact": "Low",
+      "required": false,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Supporting tools",
+      "category": "Technical",
+      "impact": "Low",
+      "required": false,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Grafana",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": false,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Prometheus",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": false,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "OpenTelemetry",
+      "category": "Technical",
+      "impact": "High",
+      "required": false,
+      "matched": true,
+      "confidenceScore": 100
+    },
+    {
+      "skill": "Secure coding practices",
+      "category": "Technical",
+      "impact": "High",
+      "required": false,
+      "matched": true,
+      "confidenceScore": 90
+    },
+    {
+      "skill": "OWASP Top 10",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": false,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "AppSec fundamentals",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": false,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Asynchronous messaging patterns",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": false,
+      "matched": false,
+      "confidenceScore": 0
+    },
+    {
+      "skill": "Job queues",
+      "category": "Technical",
+      "impact": "Medium",
+      "required": false,
+      "matched": false,
+      "confidenceScore": 0
+    }
+  ]
+}
